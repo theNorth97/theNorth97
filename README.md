@@ -55,14 +55,15 @@
   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Gatsby"  alt="Gatsby" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Gatsby"  alt="Gatsby" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="80" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Gatsby"  alt="Gatsby" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Gatsby"  alt="Gatsby" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg" title="phpstorm"  alt="Gatsby" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgreasql"  alt="Gatsby" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="composer-original"  alt="Gatsby" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker-original"  alt="Gatsby" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git-original"  alt="Gatsby" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github-original"  alt="Gatsby" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu-plain"  alt="Gatsby" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop"  alt="Gatsby" width="60" height="60"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/11195762?s=200&v=4" title="slim-FW"  alt="Gatsby" width="60" height="60"/>&nbsp;
 <div>
 
 ---
@@ -79,7 +80,7 @@
 
 ---
 
-### :writing_hand: Blog Posts :
+
 
 
 
