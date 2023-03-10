@@ -39,7 +39,7 @@
 
 - :zap: I decided to change my life and started with a change of activity.
 
-- :airplane: I plan to become a full-stack developer.
+- :airplane: I plan to become a good specialist.
 
 - :hourglass_flowing_sand: In my free time I go in for sports, learn a new specialty, and I also have many other hobbies.
 
