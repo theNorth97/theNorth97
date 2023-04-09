@@ -63,6 +63,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu-plain"  alt="Gatsby" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop"  alt="Gatsby" width="60" height="60"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/11195762?s=200&v=4" title="slim-FW"  alt="Gatsby" width="60" height="60"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-original-wordmark.svg" title="Doctrine"  alt="Doctrine" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel"  alt="Laravel" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5"  alt="HTML5" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3"  alt="CSS3" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" title="Twig"  alt="Twig" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel Blade"  alt="Laravel Blade" width="60" height="60"/>&nbsp;
 <div>
 
 ---
