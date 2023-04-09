@@ -30,20 +30,13 @@
 
 ---
 
-
-### :leaves: About Me :
-
-
-- :left_speech_bubble: I am a beginner backend developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :earth_africa: I am Valery and worked in the energy sector until the age of 26.
-
-- :zap: I decided to change my life and started with a change of activity.
-
-- :airplane: I plan to become a good specialist.
-
-- :hourglass_flowing_sand: In my free time I go in for sports, learn a new specialty, and I also have many other hobbies.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=&style=plastyk&style=plastyk)](https://t.me/thenorth97)
+:sparkles: About Me :
+:woman_technologist: I'm Valery, a backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Russia.
+:electric_plug: Before my career in tech, I worked in the energy sector until the age of 26.
+:rocket: I made the decision to switch careers and pursue my passion for coding.
+:muscle: In my free time, I enjoy staying active through sports and exploring new hobbies.
+:computer: I'm dedicated to becoming a skilled developer and constantly learning and improving my skills.
+:mailbox: You can reach me here: Telegram Badge
 
 ---
 
