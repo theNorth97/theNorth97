@@ -31,11 +31,17 @@
 ---
 
 :sparkles: About Me :
+ 
 :woman_technologist: I'm Valery, a backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Russia.
+ 
 :electric_plug: Before my career in tech, I worked in the energy sector until the age of 26.
+ 
 :rocket: I made the decision to switch careers and pursue my passion for coding.
+ 
 :muscle: In my free time, I enjoy staying active through sports and exploring new hobbies.
+ 
 :computer: I'm dedicated to becoming a skilled developer and constantly learning and improving my skills.
+ 
 :mailbox: You can reach me here: Telegram Badge
 
 ---
