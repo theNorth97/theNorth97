@@ -42,7 +42,7 @@
  
 :computer: I'm dedicated to becoming a skilled developer and constantly learning and improving my skills.
  
-:mailbox: You can reach me here: Telegram Badge
+:mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=&style=plastyk&style=plastyk)](https://t.me/thenorth97)
 
 ---
 
