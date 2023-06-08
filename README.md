@@ -32,7 +32,7 @@
 
 :sparkles: About Me :
  
-:woman_technologist: I'm Valery, a backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Russia.
+:woman_technologist: I'm Valery, a backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
 :electric_plug: Before my career in tech, I worked in the energy sector until the age of 26.
  
